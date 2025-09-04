@@ -16,9 +16,20 @@ h1 {
   padding: 20px;
   margin: 0;
 }
+.EmyP {
+  text-align: center;
+  background: #862611;
+  color: #fff;
+  padding: 20px;
+  margin: 0;
+}
 
 h2, h3 {
   color: #1e3a8a;
+  text-align: center;
+}
+.Em {
+  color: #862611;
   text-align: center;
 }
 
@@ -30,6 +41,7 @@ h2, h3 {
   border: 3px solid #5780f1;
 }
 
+
 /* Párrafos */
 p {
   max-width: 700px;
@@ -37,7 +49,12 @@ p {
   padding: 0 15px;
   text-align: center;
 }
-
+.fotom{
+  display: block;
+  margin: 20px auto;
+  border-radius: 12px;
+  border: 3px solid #862611;
+}
 /* Secciones */
 h2, h3 {
   margin-top: 25px;
